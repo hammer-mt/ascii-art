@@ -11,5 +11,5 @@ GG    G
  GGGGGG
 ```
 
-G is a galleon that glides on the deep,
+G is a galleon, gliding on the deep,
 A goose, a glacier, a gardener's sleep.
