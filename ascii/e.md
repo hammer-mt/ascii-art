@@ -9,5 +9,5 @@
 |_____|
 ```
 
-E is for eagle, who soars wild and free,
+E is the eagle who soars wild and free,
 Echoing answers from mountain to sea.
