@@ -1,14 +1,14 @@
 # D
 
 ```text
-DDDD
-D   D
-D    D
-D    D
-D    D
-D    D
-D   D
-DDDD
+DDDDD
+DD   D
+DD    D
+DD    D
+DD    D
+DD    D
+DD   D
+DDDDD
 ```
 
 D is a doorway, half-moon and straight,
